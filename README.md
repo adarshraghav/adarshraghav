@@ -1,8 +1,15 @@
 <h1 align='center'>
   Hi there 👋 I'm Adarsh Raghav
 </h1>
+<p align='center'>
+  A Data Scientist from New Delhi, India.
+</p>
+
 
 <br>
+
+
+<p align='center'>
   
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
 
@@ -20,12 +27,6 @@
 
 [StackoverFlow]: https://stackexchange.com/users/18187782/adarsh-raghav
 
+</p>
 
 <br>
-
-
-<br>languages I know:<br>
-
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][StackoverFlow]
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][StackoverFlow]
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][StackoverFlow]
